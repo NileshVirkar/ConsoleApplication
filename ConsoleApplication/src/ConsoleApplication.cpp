@@ -5,8 +5,8 @@
 
 unsigned long long ConsoleApplication::someMemberInt = 0;
 
-void main() {
-
+int main() {
+	return 0;
 }
 
 void ConsoleApplication::func1()
